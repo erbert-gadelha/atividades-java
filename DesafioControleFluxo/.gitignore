@@ -1,0 +1,29 @@
+### IntelliJ IDEA ###
+out/
+!src/Exceptions/main/**/out/
+!src/Exceptions/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!src/Exceptions/main/**/bin/
+!src/Exceptions/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
